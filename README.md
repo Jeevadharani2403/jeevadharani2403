@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/34617966/ReadMe.md)
 # 💫 About Me:
 I am currently seeking opportunities as a **Full-Stack Developer**, with a strong interest in exploring and working with diverse frontend and backend technologies. I am passionate about building responsive, user-friendly applications, learning emerging tools, and continuously expanding my technical skills while gaining hands-on industry experience.
 
@@ -13,8 +12,6 @@ I am currently seeking opportunities as a **Full-Stack Developer**, with a stron
 ![](https://streak-stats.demolab.com/?user=jeevadharani2403&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeevadharani2403&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jeevadharani2403&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
